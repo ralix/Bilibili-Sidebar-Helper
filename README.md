@@ -5,6 +5,7 @@ B站侧边栏加强（显示推荐视频的发布时间等）
 https://greasyfork.org/zh-CN/help/installing-user-scripts
 
 ## 版本更新
+
 v1.1.0
 默认开启日期显示
 点击展开按钮同样可执行更新
